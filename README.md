@@ -1,6 +1,8 @@
 # 2d-game-prototype
 A prototype of a 2D Unity game for the Udemy course located here: https://www.udemy.com/course/unity-2d-game-developer-course-farming-rpg/. 
 
+Download all the folders as a .zip file and unzip. Click on the Farm Game.exe file to run the prototype.
+
 Functionality includes player and NPC movement, crop growth and harvesting, multiple scenes, inventory bar, and UI screen for inventory, Save/Load and Quit functionality.
 
 Use W/A/S/D or up/left/down/right arrow keys to move the player character.
